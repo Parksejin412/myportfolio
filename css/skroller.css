@@ -1,0 +1,7 @@
+.number{
+    position: fixed;
+    left: 30px;
+    top: 10px;
+    z-index: 500;
+    color: #fff;
+}

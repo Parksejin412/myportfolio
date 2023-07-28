@@ -1,0 +1,18 @@
+@charset "UTF -8 " ;
+*{margin: 0; padding: 0;}
+.no-flexboxlegacy .ie{
+    display: block;
+}
+.ie{
+    display: none;
+    position: fixed;
+    left: 0; right: 0; top: 0; bottom: 0;
+    text-align: center; 
+    box-sizing: border-box;
+    padding: 20vw 10vw;
+    z-index: 500;
+    background-color: #222;
+}
+
+.ie p{font-size: 25px; color: #fff;}
+.ie h2{font-size: 25px; color: #fff; position: relative;}
