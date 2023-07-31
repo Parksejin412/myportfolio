@@ -1668,6 +1668,17 @@ div.foo {
     width: 100%;
 }
 
+#work2 .tab_menu .tab1 .btn_box .p_btn{
+    position: absolute;
+    top: -525px; right: 450px;
+    width: 180px; height: 50px;
+    background-color: #000; color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
 #work2 .tab_menu .tab1 .btn_box .btn {
     position: relative;
     display: inline-block;
